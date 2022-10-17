@@ -1,1 +1,4 @@
-#Bitwise Operators Explained
+---
+layout: post
+title: Bitwise Operators Explained!
+---
