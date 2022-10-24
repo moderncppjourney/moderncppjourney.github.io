@@ -6,7 +6,6 @@ categories: cpp basics
 ---
 Let me explain Bitwise Operators in detail
 
-#//{% highlight cpp %}
 ```cpp
 #include <iostream>
 
@@ -17,4 +16,3 @@ int main()
     int a = 10;
 }
 ```py
-#//{% endhighlight %}
