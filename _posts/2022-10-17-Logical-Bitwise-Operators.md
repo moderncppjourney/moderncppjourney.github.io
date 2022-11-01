@@ -5,15 +5,13 @@ tags: basics bitwise
 categories: cpp basics
 ---
 
+Logical Bitwise Opertors explained
+
+![image](https://user-images.githubusercontent.com/265046/199296600-4f4d3452-709d-41f5-b881-3dd27175f98d.png)
+
+
 ![image](https://user-images.githubusercontent.com/265046/199293199-e2df149f-ede7-4c08-946b-0be970e737d0.png)
 
-
-| X | Y | AND | OR | NOT(x) | XOR |
-|---|---|-----|----|--------|-----|
-| 0 | 0 | 0   | 0  | 1      | 0   |
-| 0 | 1 | 0   | 1  | 1      | 1   |
-| 1 | 0 | 0   | 1  | 0      | 1   |
-| 1 | 1 | 1   | 1  | 0      | 0   |
 
 ```cpp
 
